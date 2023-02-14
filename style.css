@@ -1,0 +1,20 @@
+body {
+  background-color: whitesmoke;
+  padding-top: 50px;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-bottom: 20px;
+  margin: 3px;
+}
+
+img {
+  width: 90%;
+  height: 90%px;
+  padding-left: 20px;
+}
+
+
+.social-icon {
+  margin: 20px 30px;
+}
+
